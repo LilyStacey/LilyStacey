@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LilyStacey
 - 👀 I’m interested in systems programming and embedded systems 
-- 🌱 I’m currently learning C, C++, Matlab, and ROS
+- 🌱 I’m currently learning C, C++, Python, Matlab, and ROS
 - 😄 Pronouns: she/her
 
 <!---
